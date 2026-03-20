@@ -2,12 +2,15 @@
 
 ## Installation & Usage
 
+### Installation via pip
 
+If you only need to use the library (without cloning the full repository), you can install it directly from GitHub.
 
+It is recommended to install it in a new virtual environment:
 
+    pip install -r requirements.txt
 
-
-
+Please create a new virtual environment and install these via pip.
 
 
 
